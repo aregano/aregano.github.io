@@ -267,8 +267,8 @@ sections:
       text: |-
         Get in touch!
       # Contact (add or remove contact options as necessary)
-      email: fjavier.rdrgz@gmail.com
-      phone: +34 654867574
+      email: alvaro.regano@gmail.com
+      phone: +34 676371361
       # appointment_url: 'https://calendly.com'
       # address:
       #   street: 450 Serra Mall
