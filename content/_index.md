@@ -65,7 +65,7 @@ sections:
         - title: Research Scientist
           company: CNIC
           company_url: 'https://www.cnic.es/'
-          # company_logo: cnic+logo
+          company_logo: cnic+logo
           location: Madrid
           date_start: '2020-06-01'
           date_end: ''
