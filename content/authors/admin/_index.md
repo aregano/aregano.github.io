@@ -32,6 +32,9 @@ interests:
   - Multiomics
   - Next Generation Sequencing (NGS)
   - Data Analysis
+  - Immunology
+  - Angiogenesis
+  - single cel Lineage Tracing (scLT)
   - Statistical Modeling
 
 # Education to show in About widget

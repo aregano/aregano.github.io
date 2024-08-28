@@ -63,46 +63,55 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Research Scientist
-          company: Seddi
-          company_url: 'https://seddi.com/'
-          company_logo: seddi-logo
+          company: CNIC
+          company_url: 'https://www.cnic.es/'
+          company_logo: cnic+logo
           location: Madrid
-          date_start: '2023-03-01'
+          date_start: '2020-06-01'
           date_end: ''
           description: |2-
-              As a Research Scientist at SEDDI, I currently work on researching new learning based methods for improving fabric materials digitization from single images and generative modeling of SVBRDF materials among other topics. Also, I am charge of continuous improvement efforts for the neural network model behind [textura.ai](https://textura.ai/), SEDDI's flagship fabric digitization tool, ensuring it remains at the forefront of the industry.
-        - title: Research Scientist
-          company: Computer Vision and Aerial Robotics |  Universidad Politécnica de Madrid 
-          company_url: 'https://vimeo.com/cvarupm'
-          company_logo: cvar
-          location: Madrid
-          date_start: '2017-08-01'
-          date_end: '2023-03-01'
-          description: 'As a member of the Computer Vision and Aerial Robotics Research Group, I developed learning based computer vision algorithms for aerial robotic perception, with a strong focus on applied research and industriy collaboration in real world problems. During this time, I worked on my PhD. thesis, entitled: Adaptive Learning with Weak Supervision for Robotic Perception,  with a focus on developing unsupervised methods to reduce the amount of data required to train deep learning models.'
-        - title: Research Assistant 
-          company: GFMC |  Universidad Politécnica de Madrid 
-          company_url: ''
-          company_logo: ucm
-          location: Madrid
+              As a Research Scientist at CNIC, I currently work on developing a novel single cell Lineage Tracing tool, iFlpscLineage that, coupled with transcriptomical analysis, can provide information of a single cells transcriptome and clonal history. Furthermore, I have worked in various projects involving transcriptomical data analysis from scRNAseq experiments involving Endothelial to Hematopoietic Tansition, endothelial cell transcriptomical quiescence in the mouse liver, and transcriptomical validation of various transgenic mose lines.
+        - title: Research Intern
+          company: TBSI |  Trinity College Dublin 
+          company_url: 'https://www.tcd.ie/'
+          company_logo: tcd
+          location: Dublin
+          date_start: '2018-03-01'
+          date_end: '2018-07-01'
+          description: 'As an MSc Immunology research intern at the Department of Biochemistry and Immunology, I worked in a novel type of gamma-delta T-cell, which was found to express alpha-beta TCRs. I performed bulk RNA-seq analysis of said novel celltype as well as FACS validation of my in sillico findings.'
+        - title: Undergraduate Research Intern
+          company: TBSI |  Trinity College Dublin 
+          company_url: 'https://www.tcd.ie/'
+          company_logo: tcd
+          location: Dublin
           date_start: '2016-10-01'
-          date_end: '2020-02-01'
-          description: 'As part of two EU H2020 projects, POLAR-EM and MAGTOOLS, I developed software tools for efficient and reliable analysis of magnetic materials in electron microscopy imaging.'
-        - title: Consulting Intern 
-          company: AICAM |  Altran 
-          company_url: ''
-          company_logo: altran
-          location: Cádiz
-          date_start: '2016-05-01'
-          date_end: '2016-10-01'
-          description: 'As an intern at the Altran Innovation Centre for Advanced Manufacturing, I gained experience working with virtual and augmented reality-based simulators for advanced manufacturing systems and worker training, providing practical and immersive learning opportunities in this field.'
-        - title: Research Assistant 
-          company: SIC |  Universidad de Cádiz 
-          company_url: ''
-          company_logo: uca
-          location: Cádiz
-          date_start: '2014-09-01'
-          date_end: '2016-05-01'
-          description: 'During my time with the Intelligent Computation Systems research group, I focused on using CUDA-enabled GPUs to accelerate tomography reconstruction algorithms for electron microscopy imaging. Additionally, I developed a low-cost system for indoor positioning based on multiview cameras.'
+          date_end: '2017-06-01'
+          description: 'As an Undergraduate Research Intern in the department of Pharmacy at TCD, I worked with colorectal cancer cell lines, platelets and chitosan coated ferrite nanoparticles to develop novel nanoparticle therapies.'
+        - title: Web developer
+          company: Cuidado Mayor
+          company_url: 'https://www.cuidadomayor.com/'
+          company_logo: cuidado_mayor
+          location: Madrid
+          date_start: '2019-02-01'
+          date_end: '2019-10-01'
+          description: 'As a part-time employee of cuidado mayor, I helped with the web design'
+        - title: ESC Volunteer
+          company: APS Tavola Rotonda
+          company_url: 'https://www.tavolarotonda.org/'
+          company_logo: APS
+          location: Anticoli Corrado
+          date_start: '2019-01-01'
+          date_end: '2019-12-20'
+          description: 'As an European Solidarity Corps volunteer, I went to a small town next to Rome where I worked with the townspeaople to understand an reinvigorate the rural areas'
+        - title: Invigilator and Demonstrator
+          company: Trinity College Dublin 
+          company_url: 'https://www.tcd.ie/'
+          company_logo: tcd
+          location: Dublin
+          date_start: '2018-01-01'
+          date_end: '2018-06-01'
+          description: 'As Invigilator I supervised student examinations during the exam periods at TCD. At the same time I worked as a demonstrator in biological laboratories, teaching student common lab techniques like gram staining, electrophoresis or chromatography'
+        
     design:
       columns: '2'
   # - block: accomplishments
