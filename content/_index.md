@@ -65,7 +65,7 @@ sections:
         - title: Research Scientist
           company: CNIC
           company_url: 'https://www.cnic.es/'
-          company_logo: cnic+logo
+          # company_logo: cnic+logo
           location: Madrid
           date_start: '2020-06-01'
           date_end: ''
@@ -74,7 +74,7 @@ sections:
         - title: Research Intern
           company: TBSI |  Trinity College Dublin 
           company_url: 'https://www.tcd.ie/'
-          company_logo: tcd
+          # company_logo: tcd
           location: Dublin
           date_start: '2018-03-01'
           date_end: '2018-07-01'
@@ -82,7 +82,7 @@ sections:
         - title: Undergraduate Research Intern
           company: TBSI |  Trinity College Dublin 
           company_url: 'https://www.tcd.ie/'
-          company_logo: tcd
+          # company_logo: tcd
           location: Dublin
           date_start: '2016-10-01'
           date_end: '2017-06-01'
@@ -90,7 +90,7 @@ sections:
         - title: Web developer
           company: Cuidado Mayor
           company_url: 'https://www.cuidadomayor.com/'
-          company_logo: cuidado_mayor
+          # company_logo: cuidado_mayor
           location: Madrid
           date_start: '2019-02-01'
           date_end: '2019-10-01'
@@ -98,7 +98,7 @@ sections:
         - title: ESC Volunteer
           company: APS Tavola Rotonda
           company_url: 'https://www.tavolarotonda.org/'
-          company_logo: APS
+          # company_logo: APS
           location: Anticoli Corrado
           date_start: '2019-01-01'
           date_end: '2019-12-20'
@@ -106,7 +106,7 @@ sections:
         - title: Invigilator and Demonstrator
           company: Trinity College Dublin 
           company_url: 'https://www.tcd.ie/'
-          company_logo: tcd
+          # company_logo: tcd
           location: Dublin
           date_start: '2018-01-01'
           date_end: '2018-06-01'
