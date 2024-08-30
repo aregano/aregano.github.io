@@ -1,18 +1,31 @@
 ---
-title: "Overcoming Domain Shift in Neural Networks for Accurate Plant Counting in Aerial Images"
+title: "iSuRe-HadCre is an essential tool for effective conditional genetics"
 authors:
-- admin
-- Miguel Fernández-Cortizas
-- David Pérez-Saura
-- Martin Molina
+- Garcia-Gonzalez, Irene
+- Rocha, Susana F
+- Hamidi, Anahita
+- Garcia-Ortega, Lourdes
+- Regano, Alvaro
+- Sanchez-Muñoz, Maria S
+- Lytvyn, Mariya
+- Garcia-Cabero, Aroa
+- Roig-Soucase, Sergi
+- Schoofs, Hans
+- Castro, Marco
+- Sabata, Helena
+- Potente, Michael
+- Graupera, Mariona
+- Makinen, Taija
+- Benedito, Rui
+
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2023-03-22T00:00:00Z"
-doi: "https://doi.org/10.3390/rs15061700"
+date: "2020-06-01T00:00:00Z"
+doi: "https://doi.org/10.1093/nar/gkae472"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-03-22T00:00:00Z"
+publishDate: "2024-06-08T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -20,22 +33,22 @@ publishDate: "2023-03-22T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Remote Sensing*(1)"
+publication: "*Nucleic Acids Research*(52)"
 publication_short: ""
 
-abstract: "This paper presents a novel semi-supervised approach for accurate counting and localization of tropical plants in aerial images that can work in new visual domains in which the available data are not labeled. Our approach uses deep learning and domain adaptation, designed to handle domain shifts between the training and test data, which is a common challenge in this agricultural applications. This method uses a source dataset with annotated plants and a target dataset without annotations and adapts a model trained on the source dataset to the target dataset using unsupervised domain alignment and pseudolabeling. The experimental results show the effectiveness of this approach for plant counting in aerial images of pineapples under significative domain shift, achieving a reduction up to 97% in the counting error (1.42 in absolute count) when compared to the supervised baseline (48.6 in absolute count)."
+abstract: "Methods for modifying gene function at high spatiotemporal resolution in mice have revolutionized biomedical research, with Cre-loxP being the most widely used technology. However, the Cre-loxP technology has several drawbacks, including weak activity, leakiness, toxicity, and low reliability of existing Cre-reporters. This is mainly because different genes flanked by loxP sites (floxed) vary widely in their sensitivity to Cre-mediated recombination. Here, we report the generation, validation, and utility of iSuRe-HadCre, a new dual Cre-reporter and deleter mouse line that avoids these drawbacks. iSuRe-HadCre achieves this through a novel inducible dual-recombinase genetic cascade that ensures that cells expressing a fluorescent reporter had only transient Cre activity, that is nonetheless sufficient to effectively delete floxed genes. iSuRe-HadCre worked reliably in all cell types and for the 13 floxed genes tested. This new tool will enable the precise, efficient, and trustworthy analysis of gene function in entire mouse tissues or in single cells."
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Remote Sensing
-featured: true
+- Nucleic Acids Research
+featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.mdpi.com/2072-4292/15/6/1700
+url_pdf: https://academic.oup.com/nar/article/52/13/e56/7689925?login=false
 url_code: ''
 url_dataset: ''
 url_poster: ''
