@@ -1,5 +1,5 @@
 ---
-title: "Overcoming Domain Shift in Neural Networks for Accurate Plant Counting in Aerial Images"
+title: "iFlpMosaics: A method for the ratiometric induction and high-throughput comparative analysis of mutant and wildtype cells"
 authors:
 - Garcia-Gonzalez, Irene
 - Gambera, Stefano
