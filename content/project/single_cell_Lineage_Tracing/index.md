@@ -2,8 +2,9 @@
 title: iFlpscLineage, a single cell Lineage Tracing
 summary: Design of a novel scLT technology coupled with transcriptomic analysis
 tags:
-  - scLT
-date: '2020-06-0100:00:00Z'
+  - Bioinformatics
+  - Molecular Biology
+date: '2024-06-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

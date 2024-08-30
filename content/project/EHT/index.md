@@ -2,7 +2,8 @@
 title: Transcriptomical single cell analysis of Endothelial to Hematopoietic Transition
 summary:  Construct and analyze an EHT dataset with conditional genetics.
 tags:
-  - EHT
+  - Bioinformatics
+  - Molecular Biology
 date: '2024-06-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

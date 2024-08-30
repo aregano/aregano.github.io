@@ -200,12 +200,13 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: scLT
-          tag: scLT
-        - name: EHT
-          tag: EHT
-        - name: ESC
-          tag: ESC
+        - name: Bioinformatics
+          tag: Bioinformatics
+        - name: Molecular Biology
+          tag: Molecular Biology
+        - name: Volunteering
+          tag: Volunteering
+ 
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
