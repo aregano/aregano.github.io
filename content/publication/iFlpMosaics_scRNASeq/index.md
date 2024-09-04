@@ -18,11 +18,11 @@ authors:
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2023-05-10T00:00:00Z"
+date: "2024-09-04T00:00:00Z"
 doi: "https://doi.org/10.1101/2023.05.09.540000"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-05-10T00:00:00Z"
+publishDate: "2024-05-04T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -30,7 +30,7 @@ publishDate: "2023-05-10T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*bioRxiv*"
+publication: "*Nature Methods (In Review)*"
 publication_short: ""
 
 abstract: "In order to understand gene function, cells mutated for a gene need to be analysed and compared with normal cells. In most biomedical studies this comparative analysis is carried out with cells present in independent animals and therefore not experiencing the same microenvironment or epigenetic changes. Here we present a large set of new genetic tools and mouse lines that enable the Flp recombinase-dependent mosaic induction and single cell clonal tracking of multiple fluorescently labelled normal and Cre-mutant cells from distinct or the same progenitor cells. The induced cells can be profiled in situ by direct multispectral imaging, or by FACS and scRNA-seq. Since with these new tools normal and mutant cells are ratiometrically induced and multispectrally barcoded in the same temporal window and tissue microenvironment, they enable us to understand with higher accuracy and reliability how induced genetic mutations affect the biology of single cells, during tissue development, homeostasis or in disease."
