@@ -43,8 +43,11 @@ education:
     - course: PhD in Computational and Molecular Biology
       institution: Universidad Autónoma de Madrid
       year: 2024
+    - course: Artificial Inteligence
+      institution: Escuela de Organizacion Industrial Partnered with Samsung
+      year: 2024
     - course: Python programming & algorithms for AI
-      institution: Escuela de Organizacion Industrial
+      institution: Escuela de Organizacion Industrial Partnered with Samsung
       year: 2024
     - course: Web App Development and Amazon Web Services
       institution: Generation Spain, a McKinsey Social Initiative
@@ -135,6 +138,6 @@ social:
 highlight_name: true
 ---
 
-Hi! I'm Alvaro, a (about to be) PhD in Computational and Molecular Biology. My research interests include bioinformatics, multiomic single cell data analysis and machine learning. As a a Dedicated Computational Biologist with bench work experience, my main expertise lays in single cell multiomic (transcriptomic, epigenomic)data acquisition, processing, analysis and visualization.
+Hi! I'm Alvaro, PhD in Computational and Molecular Biology. My research interests include bioinformatics, multiomic single cell data analysis and machine learning. As a a Dedicated Computational Biologist with bench work experience, my main expertise lays in single cell multiomic data acquisition, processing, analysis and visualization.
 
 {style="text-align: justify;"}
