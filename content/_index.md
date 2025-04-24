@@ -78,7 +78,8 @@ sections:
           location: Madrid
           date_start: '2020-06-01'
           date_end: '2024-11-30'
-          description: 'As a Research Scientist at CNIC, I worked on developing a novel single cell Lineage Tracing tool, iFlpscLineage that, coupled with transcriptomical analysis, can provide information of a single cells transcriptome and clonal history. Furthermore, I have worked in various projects involving transcriptomical data analysis from scRNAseq experiments involving Endothelial to Hematopoietic Tansition, endothelial cell transcriptomical quiescence in the mouse liver, and transcriptomical validation of various transgenic mose lines.
+          description: |2-
+              As a Research Scientist at CNIC, I worked on developing a novel single cell Lineage Tracing tool, iFlpscLineage that, coupled with transcriptomical analysis, can provide information of a single cells transcriptome and clonal history. Furthermore, I have worked in various projects involving transcriptomical data analysis from scRNAseq experiments involving Endothelial to Hematopoietic Tansition, endothelial cell transcriptomical quiescence in the mouse liver, and transcriptomical validation of various transgenic mose lines.
         - title: Research Intern
           company: TBSI |  Trinity College Dublin 
           company_url: 'https://www.tcd.ie/'
