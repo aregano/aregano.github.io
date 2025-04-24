@@ -62,15 +62,24 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+      - title: Postdoctoral Scientist - Bioinformatics
+          company: Princess Maxima Center
+          company_url: 'https://www.prinsesmaximacentrum.nl/en'
+          company_logo: pmc-logo
+          location: Utrecht
+          date_start: '2025-02-01'
+          date_end: ''
+          description: |2-
+              As a Postdoctoral Scientist at the Princess Maxima Center, I am working on characterizing cerebellar tumor organoid models as well as looking into the Tumor Microenvironment of various paedriatic cancers, such as Medulloblastomas and Ependymomas. I employ transcriptomics as well as saptial transcriptomics to characterize the tumor microenvironment and its interaction with the tumor cells.
         - title: Research Scientist
           company: CNIC
           company_url: 'https://www.cnic.es/'
           company_logo: cnic+logo
           location: Madrid
           date_start: '2020-06-01'
-          date_end: ''
+          date_end: '2024-11-31'
           description: |2-
-              As a Research Scientist at CNIC, I currently work on developing a novel single cell Lineage Tracing tool, iFlpscLineage that, coupled with transcriptomical analysis, can provide information of a single cells transcriptome and clonal history. Furthermore, I have worked in various projects involving transcriptomical data analysis from scRNAseq experiments involving Endothelial to Hematopoietic Tansition, endothelial cell transcriptomical quiescence in the mouse liver, and transcriptomical validation of various transgenic mose lines.
+              As a Research Scientist at CNIC, I worked on developing a novel single cell Lineage Tracing tool, iFlpscLineage that, coupled with transcriptomical analysis, can provide information of a single cells transcriptome and clonal history. Furthermore, I have worked in various projects involving transcriptomical data analysis from scRNAseq experiments involving Endothelial to Hematopoietic Tansition, endothelial cell transcriptomical quiescence in the mouse liver, and transcriptomical validation of various transgenic mose lines.
         - title: Research Intern
           company: TBSI |  Trinity College Dublin 
           company_url: 'https://www.tcd.ie/'
