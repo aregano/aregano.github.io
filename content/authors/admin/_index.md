@@ -7,7 +7,7 @@ title: Alvaro Regaño García
 
 # Full name (for SEO)
 first_name: Alvaro
-last_name: Regano Garcia
+last_name: Regano
 
 # Status emoji
 status:
@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Research Scientist
+role: Bioinformatician
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: CNIC
-    url: https://www.cnic.es/
+  - name: Princess Maxima Center for pediatric oncology
+    url: https://www.prinsesmaximacentrum.nl/en
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include bioinformatics, multiomic analysis, data analysis and machine learning.
@@ -33,9 +33,11 @@ interests:
   - Next Generation Sequencing (NGS)
   - Data Analysis
   - Immunology
+  - Oncology (Pediatric)
   - Angiogenesis
   - single cel Lineage Tracing (scLT)
   - Statistical Modeling
+  - Machine Learning
 
 # Education to show in About widget
 education:
