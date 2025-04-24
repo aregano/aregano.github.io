@@ -62,7 +62,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-      - title: Postdoctoral Scientist - Bioinformatics
+        - title: Postdoctoral Scientist - Bioinformatics
           company: Princess Maxima Center
           company_url: 'https://www.prinsesmaximacentrum.nl/en'
           company_logo: pmc-logo
