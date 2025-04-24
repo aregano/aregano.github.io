@@ -280,7 +280,10 @@ sections:
         Get in touch!
       # Contact (add or remove contact options as necessary)
       email: alvaro.regano@gmail.com
+             a.reganogarcia@prinsesmaximacentrum.nl
       phone: +34 676371361
+             +31 623072254
+      # address: 450 Serra Mall, Stanford, CA 94305 
       # appointment_url: 'https://calendly.com'
       # address:
       #   street: 450 Serra Mall
