@@ -1,9 +1,9 @@
 ---
-title: EUROPE
-summary: Exploring Unknown Relapse Origins in Paediatric Ependymoma
+title: MyoMedulloblastoma
+summary:  Characterizing Group 5 and Group 6 Medulloblastomas
 tags:
   - Bioinformatics
-date: '2025-02-01T00:00:00Z'
+date: '2025-09-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -29,8 +29,7 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
- 
-The project aims to understand, the spatial and temporal  organization, the tumor  microenvironment, and molecular changes of EPN relapse, followed by identifying therapy-resistant cells on the single cell level in relapsed EPN in vivo models. Once those cells have been identified and targeted, the project will aim at exploiting therapeutic vulnerabilities of resistant cells in relapsed EPN.
+Pediatric brain cancers are remarkably heterogeneous and new subcategories are being established in a constant manner. In the case of Medulloblastoma there are three main subtypes: WNT, SHH, G3/4. Yet a new subgroup has been described using DNA methylation array data, dubbed as G5/6. In this project I analyze FLEX scRNAseq data of patient samples belonging to that group in order to better characterize this new Medulloblastoma subtype.
 
 
 

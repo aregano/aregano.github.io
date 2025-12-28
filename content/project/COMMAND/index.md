@@ -1,6 +1,6 @@
 ---
-title: EUROPE
-summary: Exploring Unknown Relapse Origins in Paediatric Ependymoma
+title: COMMAND
+summary:  Cerebellar Organoid Modelling of Medulloblastoma to Accelerate New Discoveries
 tags:
   - Bioinformatics
 date: '2025-02-01T00:00:00Z'
@@ -29,8 +29,7 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
- 
-The project aims to understand, the spatial and temporal  organization, the tumor  microenvironment, and molecular changes of EPN relapse, followed by identifying therapy-resistant cells on the single cell level in relapsed EPN in vivo models. Once those cells have been identified and targeted, the project will aim at exploiting therapeutic vulnerabilities of resistant cells in relapsed EPN.
+This project aims at generating models of Medulloblastoma by introducing tumour-causing mutations into cultured cells. With this approach we can study how and in which cells tumours are formed and test drugs. Here I focus on characterizing and assesing the similarity of these medulloblastoma models to the actual patient samples these models portray. For that I analyze snRNAseq data as well as DNA methylation array data to asses the similarity of these models with the real patient sample data.
 
 
 
