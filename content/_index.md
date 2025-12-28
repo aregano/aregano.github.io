@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ''
-date: 2022-10-24
+date: 2025-12-28
 type: landing
 
 sections:
@@ -70,7 +70,7 @@ sections:
           date_start: '2025-02-01'
           date_end: ''
           description: |2-
-              As a Postdoctoral Scientist at the Princess Maxima Center, I am working on characterizing cerebellar tumor organoid models as well as looking into the Tumor Microenvironment of various paedriatic cancers, such as Medulloblastomas and Ependymomas. I employ transcriptomics as well as saptial transcriptomics to characterize the tumor microenvironment and its interaction with the tumor cells.
+              As a Postdoctoral Scientist at the Princess Maxima Center, I am working on looking into the Tumor Microenvironment of various paedriatic cancers, such as Medulloblastomas and Ependymomas as well as characterizing cerebellar tumor organoid models. I employ transcriptomics (scRNAseq, bulkRNAseq spatial) as well as epigenomics (DNA methylation array data) in my work to fullfil the goals of each project.
         - title: Research Scientist
           company: CNIC
           company_url: 'https://www.cnic.es/'
@@ -280,9 +280,9 @@ sections:
         Get in touch!
       # Contact (add or remove contact options as necessary)
       email: alvaro.regano@gmail.com
-             a.reganogarcia@prinsesmaximacentrum.nl
+      email: a.reganogarcia@prinsesmaximacentrum.nl
       phone: +34 676371361
-             +31 623072254
+      phone: +31 623072254
       # address: 450 Serra Mall, Stanford, CA 94305 
       # appointment_url: 'https://calendly.com'
       # address:
