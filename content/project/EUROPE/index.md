@@ -30,7 +30,7 @@ url_video: ''
 # slides: example
 ---
  
-The project aims to understand, the spatial and temporal  organization, the tumor  microenvironment, and molecular changes of EPN relapse, followed by identifying therapy-resistant cells on the single cell level in relapsed EPN in vivo models. Once those cells have been identified and targeted, the project will aim at exploiting therapeutic vulnerabilities of resistant cells in relapsed EPN.
+The project aims to understand the spatial and temporal  organization, the tumor  microenvironment and molecular changes of EPN relapse, followed by identifying therapy-resistant cells on the single cell level in relapsed EPN in vivo models. Once those cells have been identified and targeted, the project will aim at exploiting therapeutic vulnerabilities of resistant cells in relapsed EPN.
 
 
 
