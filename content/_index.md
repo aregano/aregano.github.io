@@ -213,8 +213,20 @@ sections:
           tag: Bioinformatics
         - name: Molecular Biology
           tag: Molecular Biology
+        - name: Immunology
+          tag: Immunology
+        - name: Pediatric Oncology
+          tag: Pediatric Oncology
+        - name: Neuroscience
+          tag: Neuroscience
+        - name: Vascular Biology
+          tag: Vascular Biology
+        - name: Developmental Biology
+          tag: Developmental Biology
         - name: Volunteering
           tag: Volunteering
+        - name: Music
+          tag: Music
  
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.

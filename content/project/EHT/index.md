@@ -4,6 +4,8 @@ summary:  Construct and analyze an EHT dataset with conditional genetics.
 tags:
   - Bioinformatics
   - Molecular Biology
+  - Vascular Biology
+  - Developmental Biology
 date: '2024-06-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

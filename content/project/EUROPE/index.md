@@ -3,6 +3,9 @@ title: EUROPE
 summary: Exploring Unknown Relapse Origins in Paediatric Ependymoma
 tags:
   - Bioinformatics
+  - Pediatric Oncology
+  - Neuroscience
+  - Immunology
 date: '2025-02-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

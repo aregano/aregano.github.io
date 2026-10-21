@@ -3,6 +3,9 @@ title: MIMIC
 summary:  Myeloid cell targeting to enhance T-cell immunotherapy in pediatric high-grade brain cancers (pHGBT)
 tags:
   - Bioinformatics
+  - Pediatric Oncology
+  - Immunology
+  - Neuroscience
 date: '2025-02-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

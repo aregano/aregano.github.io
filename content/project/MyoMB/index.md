@@ -3,6 +3,9 @@ title: MyoMedulloblastoma
 summary:  Characterizing Group 5 and Group 6 Medulloblastomas
 tags:
   - Bioinformatics
+  - Neuroscience
+  - Pediatric Oncology
+  - Developmental Biology
 date: '2025-09-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

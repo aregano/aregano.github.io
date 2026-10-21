@@ -3,6 +3,8 @@ title: COMMAND
 summary:  Cerebellar Organoid Modelling of Medulloblastoma to Accelerate New Discoveries
 tags:
   - Bioinformatics
+  - Pediatric Oncology
+  - Neuroscience
 date: '2025-02-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
